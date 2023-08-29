@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-08-29 11:14:31">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Unemployment Benefits-- Global app</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0c335cd397347510680df5c11153afc8</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>2a384a8c97093910680df5c11153af61</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_ais_34fe3d96cb20020000f8d856634c9cf4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>1</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>lg</size><sp_column display_value="1">1339e8d2cb20020000f8d856634c9c41</sp_column><sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget><spell_check_font_size/><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-06-11 23:03:02</sys_created_on><sys_id>34fe3d96cb20020000f8d856634c9cf4</sys_id><sys_mod_count>12</sys_mod_count><sys_name>How can we help?</sys_name><sys_package display_value="Service Portal - Core" source="com.glide.service-portal">026ec7f1e8e1211076da10591ad28737</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_ais_34fe3d96cb20020000f8d856634c9cf4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-26 18:56:36</sys_updated_on><title>How can we help?</title><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=34fe3d96cb20020000f8d856634c9cf4"/></record_update>]]></payload>
+<payload_hash>1683946757</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>22384a8c97093910680df5c11153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a33348c8e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>How can we help?</target_name>
+<type>Instance with Search</type>
+<update_domain>global</update_domain>
+<update_guid>92359c5752347510f99307bb74a07941</update_guid>
+<update_guid_history>92359c5752347510f99307bb74a07941:1683946757,1a359c5759347510174071fe73571b3f:227177668</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_28e8e193d7333100a9ad1e173e24d459</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph>tasks</glyph><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">46b8e193d7333100a9ad1e173e24d419</sp_column><sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-05-08 17:12:44</sys_created_on><sys_id>28e8e193d7333100a9ad1e173e24d459</sys_id><sys_mod_count>16</sys_mod_count><sys_name>News</sys_name><sys_package display_value="Service Portal - Core" source="com.glide.service-portal">026ec7f1e8e1211076da10591ad28737</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_28e8e193d7333100a9ad1e173e24d459</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-26 18:56:36</sys_updated_on><title>News</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=28e8e193d7333100a9ad1e173e24d459"/></record_update>]]></payload>
+<payload_hash>-1260288147</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>26384a8c97093910680df5c11153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3334e2a30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>News</target_name>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>a7455cd3ec34751056f63434116f9cd5</update_guid>
+<update_guid_history>a7455cd3ec34751056f63434116f9cd5:-1260288147,52359c5715347510f547c6d9554ab66a:-1308964999,1e359c578234751071abfcc785cfbf68:46535416</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_row_14915e3397b8f510680df5c11153af36</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Unemployment Benefits - Container 2">0a81da3397b8f510680df5c11153afe3</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 17:16:50</sys_created_on><sys_id>14915e3397b8f510680df5c11153af36</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_row_14915e3397b8f510680df5c11153af36</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 17:16:50</sys_updated_on></sp_row></record_update>]]></payload>
+<payload_hash>-1801458298</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>26384a8c97093910680df5c11153af65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3d25efba0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Row</type>
+<update_domain>global</update_domain>
+<update_guid>9c915e3382b8f5104e6f07f1d8ec9c37</update_guid>
+<update_guid_history>9c915e3382b8f5104e6f07f1d8ec9c37:-1801458298</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_vlist_4c3540f147330200ba13a5554ee49012</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;number&lt;/display_field&gt;&lt;field_list/&gt;&lt;filter/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;20&lt;/maximum_entries&gt;&lt;order&gt;2&lt;/order&gt;&lt;order_by&gt;sys_updated_on&lt;/order_by&gt;&lt;order_direction&gt;desc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;4a62b1900b0103002600425663673ac9&lt;/sp_column&gt;&lt;sp_page display_value="ticket"&gt;84af292247132100ba13a5554ee4909e&lt;/sp_page&gt;&lt;sp_widget display_value="Simple List"&gt;5b255672cb03020000f8d856634c9c28&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;fred.luddy&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-11-18 14:17:10&lt;/sys_created_on&gt;&lt;sys_id&gt;4c3540f147330200ba13a5554ee49012&lt;/sys_id&gt;&lt;sys_mod_count&gt;21&lt;/sys_mod_count&gt;&lt;sys_name&gt;My Open Incidents&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;026ec7f1e8e1211076da10591ad28737&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_4c3540f147330200ba13a5554ee49012&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 18:56:45&lt;/sys_updated_on&gt;&lt;table&gt;x_131797_unemploym_unemployment_benefits&lt;/table&gt;&lt;title&gt;My Open Incidents&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"always_show": {
+		"displayValue": false,
+		"value": false
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": null,
+		"displayValue": ""
+	},
+	"rounded_images": {
+		"displayValue": true,
+		"value": true
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=4c3540f147330200ba13a5554ee49012"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>39381522</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>2a384a8c97093910680df5c11153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3334ca080000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table>x_131797_unemploym_unemployment_benefits</table>
+<target_name>My Open Incidents</target_name>
+<type>Instance of Simple List</type>
+<update_domain>global</update_domain>
+<update_guid>4e45dc5724347510b4e0b6fd71193f84</update_guid>
+<update_guid_history>4e45dc5724347510b4e0b6fd71193f84:39381522,9045dc5737347510aaa252e905cc0b15:-1568157794,66359c57ff3475109faae741c078c39f:1442699358,39055817c43475105178d8d6fa5eb70f:369660893,64a31017d1347510ec6333100ebe70b6:-1688981500,126398d32a34751079fcda58fcd786fa:1593868537,1e6398d348347510753de666587c92f7:1718895153</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_f433cc37cb01120000f8d856634c9c88</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="3">0ec8e193d7333100a9ad1e173e24d44a</sp_column><sp_widget display_value="Login">6506d341cb33020000f8d856634c9cdc</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-01-25 22:34:21</sys_created_on><sys_id>f433cc37cb01120000f8d856634c9c88</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Login</sys_name><sys_package display_value="Service Portal - Core" source="com.glide.service-portal">026ec7f1e8e1211076da10591ad28737</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_f433cc37cb01120000f8d856634c9c88</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-26 18:56:37</sys_updated_on><title>Login</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=f433cc37cb01120000f8d856634c9c88"/></record_update>]]></payload>
+<payload_hash>-984031692</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>2e384a8c97093910680df5c11153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a333569ce0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Login</target_name>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>487558173a34751040f124fa72381da4</update_guid>
+<update_guid_history>487558173a34751040f124fa72381da4:-984031692,e6359c578d347510a19d60c09acaab96:917033024,a2359c57e73475108f2423d7eb7c6a95:-2022433857</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_container_b3615aff9778f510680df5c11153af02</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Unemployment Benefits - Container 1</name><order>1</order><sp_page display_value="unbef">527d46ff9778f510680df5c11153af3b</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 17:16:16</sys_created_on><sys_id>b3615aff9778f510680df5c11153af02</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Unemployment Benefits - Container 1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_container_b3615aff9778f510680df5c11153af02</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 17:16:16</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+<payload_hash>2079226891</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>62384a8c97093910680df5c11153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3d2567ce0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Unemployment Benefits - Container 1</target_name>
+<type>Container</type>
+<update_domain>global</update_domain>
+<update_guid>40715affbf78f510d7d9afcee6d2ee04</update_guid>
+<update_guid_history>40715affbf78f510d7d9afcee6d2ee04:2079226891</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_page_527d46ff9778f510680df5c11153af3b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><human_readable_url_structure/><id>unbef</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 16:59:22</sys_created_on><sys_id>527d46ff9778f510680df5c11153af3b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>unbef</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_page_527d46ff9778f510680df5c11153af3b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 16:59:22</sys_updated_on><title>Unemployment Benefits</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=527d46ff9778f510680df5c11153af3b"/></record_update>]]></payload>
+<payload_hash>1540135548</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>62384a8c97093910680df5c11153af65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3d15f0840000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>unbef</target_name>
+<type>Page</type>
+<update_domain>global</update_domain>
+<update_guid>689d86ffac78f510c8b5f90e6eab3cef</update_guid>
+<update_guid_history>689d86ffac78f510c8b5f90e6eab3cef:1540135548</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_link_f4c794b2cb20120000f8d856634c9cea</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;briefcase&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Browse the catalog for services and items you need&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;b5ba8872cb20120000f8d856634c9c48&lt;/sp_column&gt;&lt;sp_page display_value="sc_category"&gt;07261a2147132100ba13a5554ee49092&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-12-29 00:58:54&lt;/sys_created_on&gt;&lt;sys_id&gt;f4c794b2cb20120000f8d856634c9cea&lt;/sys_id&gt;&lt;sys_mod_count&gt;15&lt;/sys_mod_count&gt;&lt;sys_name&gt;Request Something&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;026ec7f1e8e1211076da10591ad28737&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_f4c794b2cb20120000f8d856634c9cea&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 18:56:36&lt;/sys_updated_on&gt;&lt;title&gt;Request Something&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	},
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f4c794b2cb20120000f8d856634c9cea"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1026814214</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>66384a8c97093910680df5c11153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a33348d160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Request Something</target_name>
+<type>Instance with Link</type>
+<update_domain>global</update_domain>
+<update_guid>96359c571b347510bbd907256efd0848</update_guid>
+<update_guid_history>96359c571b347510bbd907256efd0848:-1026814214,1e359c57db347510d3da10ad36239046:-1298617573</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_c4759891d7101200a9addd173e24d4a9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;46b8e193d7333100a9ad1e173e24d419&lt;/sp_column&gt;&lt;sp_widget display_value="Current Status"&gt;1e699082d7001200a9addd173e24d4e3&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-12-11 22:42:13&lt;/sys_created_on&gt;&lt;sys_id&gt;c4759891d7101200a9addd173e24d4a9&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;Current Status&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Service Status" source="com.glide.service-portal.service-status"&gt;409e8735e8e1211076da10591ad28715&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_c4759891d7101200a9addd173e24d4a9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 18:56:36&lt;/sys_updated_on&gt;&lt;title&gt;Current Status&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"standalone": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_outage_details": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c4759891d7101200a9addd173e24d4a9"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1357122558</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>6a384a8c97093910680df5c11153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a33352b370000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Current Status</target_name>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>0c65d8574b347510efa045458e0f413b</update_guid>
+<update_guid_history>0c65d8574b347510efa045458e0f413b:-1357122558,1e359c57a03475108ce825c14e020458:-924405642,16359c57c63475102ed8e21988b3c157:538173719</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_9bdbdcd3e773320075c2a117c2f6a935</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;empty&lt;/glyph&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;6cc8a193d7333100a9ad1e173e24d4de&lt;/sp_column&gt;&lt;sp_widget display_value="Announcements"&gt;94c300c7e777320075c2a117c2f6a9e7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-11 20:20:09&lt;/sys_created_on&gt;&lt;sys_id&gt;9bdbdcd3e773320075c2a117c2f6a935&lt;/sys_id&gt;&lt;sys_mod_count&gt;39&lt;/sys_mod_count&gt;&lt;sys_name&gt;Announcements&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal Announcements" source="com.glide.service-portal.announcements"&gt;9c9e8735e8e1211076da10591ad28758&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_9bdbdcd3e773320075c2a117c2f6a935&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 18:57:24&lt;/sys_updated_on&gt;&lt;title&gt;Announcements&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Announcements",
+		"displayValue": "Announcements"
+	},
+	"glyph": {
+		"value": "empty",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "",
+		"displayValue": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"view_all_page": {
+		"value": "ecc828d3e733320075c2a117c2f6a91f",
+		"displayValue": "announcements"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9bdbdcd3e773320075c2a117c2f6a935"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1796884482</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>6e384a8c97093910680df5c11153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a33355a580000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Announcements</target_name>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>4365dc579a3475104773bfdae3b7fc1c</update_guid>
+<update_guid_history>4365dc579a3475104773bfdae3b7fc1c:-1796884482,8a65909780347510a8c2a82fa7ed0b30:-899557518,96359c5714347510d7a14aedcd6a7191:1787127185,52359c574934751063ba2b2ed2189290:322276342</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_link_96c7d0b2cb20120000f8d856634c9c98</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;child&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category display_value="Can We Help You?"&gt;e15706fc0a0a0aa7007fc21e1ab70c2f&lt;/sc_category&gt;&lt;short_description&gt;Contact support to make a request, or report a problem&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;ecda8872cb20120000f8d856634c9c9c&lt;/sp_column&gt;&lt;sp_page display_value="sc_category"&gt;07261a2147132100ba13a5554ee49092&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-12-29 00:59:00&lt;/sys_created_on&gt;&lt;sys_id&gt;96c7d0b2cb20120000f8d856634c9c98&lt;/sys_id&gt;&lt;sys_mod_count&gt;16&lt;/sys_mod_count&gt;&lt;sys_name&gt;Get Help&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;026ec7f1e8e1211076da10591ad28737&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_96c7d0b2cb20120000f8d856634c9c98&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 18:56:36&lt;/sys_updated_on&gt;&lt;title&gt;Get Help&lt;/title&gt;&lt;type&gt;sc_category&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=96c7d0b2cb20120000f8d856634c9c98"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1996667492</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>a2384a8c97093910680df5c11153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a33348dd10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Get Help</target_name>
+<type>Instance with Link</type>
+<update_domain>global</update_domain>
+<update_guid>9e359c576d34751065b90c6daffa7c52</update_guid>
+<update_guid_history>9e359c576d34751065b90c6daffa7c52:1996667492,1a359c57ca347510c17eb0e392dc0551:1071246021</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_c4692593d7333100a9ad1e173e24d430</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">46b8e193d7333100a9ad1e173e24d419</sp_column><sp_widget display_value="KB Top Rated">3c817b52cb30020000f8d856634c9cfb</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-05-08 17:14:40</sys_created_on><sys_id>c4692593d7333100a9ad1e173e24d430</sys_id><sys_mod_count>23</sys_mod_count><sys_name>Top Rated Articles</sys_name><sys_package display_value="Service Portal - Core" source="com.glide.service-portal">026ec7f1e8e1211076da10591ad28737</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_c4692593d7333100a9ad1e173e24d430</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-26 18:57:17</sys_updated_on><title>Top Rated Articles</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=c4692593d7333100a9ad1e173e24d430"/></record_update>]]></payload>
+<payload_hash>-21268574</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>a6384a8c97093910680df5c11153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a333538ea0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Top Rated Articles</target_name>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>89651c57af3475109d0593f45e5461a2</update_guid>
+<update_guid_history>89651c57af3475109d0593f45e5461a2:-21268574,9c6550973d347510d304ee72844db54a:405731094,a34510972d3475103d0229733fdeb813:1113757365,96359c57583475105f0a552c95b6176e:1821783636,52359c57493475102bdeecb9cd4c876d:1113757365</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Service Portal Surveys">67ac5062db10220035417878f0b8f5c4</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_96adc382c30230106a154a93d840dd47</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">6cc8a193d7333100a9ad1e173e24d4de</sp_column><sp_widget display_value="My Surveys">04b1cc07c3231200e44574e1c1d3ae96</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-20 05:43:53</sys_created_on><sys_id>96adc382c30230106a154a93d840dd47</sys_id><sys_mod_count>2</sys_mod_count><sys_name>My Surveys</sys_name><sys_package display_value="Service Portal Surveys" source="sn_portal_surveys">67ac5062db10220035417878f0b8f5c4</sys_package><sys_policy/><sys_scope display_value="Service Portal Surveys">67ac5062db10220035417878f0b8f5c4</sys_scope><sys_update_name>sp_instance_96adc382c30230106a154a93d840dd47</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-26 18:56:37</sys_updated_on><title>My Surveys</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=96adc382c30230106a154a93d840dd47"/></record_update>]]></payload>
+<payload_hash>-569521144</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>aa384a8c97093910680df5c11153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a333548640000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>My Surveys</target_name>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>ca659097c434751058061e84009e2a0e</update_guid>
+<update_guid_history>ca659097c434751058061e84009e2a0e:-569521144,1a359c573c347510f437b38cea58fd8c:1788292988,56359c5757347510c943b7b4ff524d72:94216731</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_container_0a81da3397b8f510680df5c11153afe3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Unemployment Benefits - Container 2</name><order>2</order><sp_page display_value="unbef">527d46ff9778f510680df5c11153af3b</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 17:16:41</sys_created_on><sys_id>0a81da3397b8f510680df5c11153afe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Unemployment Benefits - Container 2</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_container_0a81da3397b8f510680df5c11153afe3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 17:16:41</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+<payload_hash>-1235593398</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>ae384a8c97093910680df5c11153af61</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3d25c9d60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Unemployment Benefits - Container 2</target_name>
+<type>Container</type>
+<update_domain>global</update_domain>
+<update_guid>8a81da332db8f510e8952bebbe4105e4</update_guid>
+<update_guid_history>8a81da332db8f510e8952bebbe4105e4:-1235593398</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_vlist_795068f147330200ba13a5554ee4903b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;number&lt;/display_field&gt;&lt;field_list/&gt;&lt;filter/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;20&lt;/maximum_entries&gt;&lt;order&gt;2&lt;/order&gt;&lt;order_by&gt;sys_updated_on&lt;/order_by&gt;&lt;order_direction&gt;desc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;4a62b1900b0103002600425663673ac9&lt;/sp_column&gt;&lt;sp_page display_value="ticket"&gt;84af292247132100ba13a5554ee4909e&lt;/sp_page&gt;&lt;sp_widget display_value="Simple List"&gt;5b255672cb03020000f8d856634c9c28&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;fred.luddy&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-11-18 16:15:26&lt;/sys_created_on&gt;&lt;sys_id&gt;795068f147330200ba13a5554ee4903b&lt;/sys_id&gt;&lt;sys_mod_count&gt;23&lt;/sys_mod_count&gt;&lt;sys_name&gt;Unemployment Benefits Record&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;026ec7f1e8e1211076da10591ad28737&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_795068f147330200ba13a5554ee4903b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 19:01:00&lt;/sys_updated_on&gt;&lt;table&gt;x_131797_unemploym_unemployment_benefits&lt;/table&gt;&lt;title&gt;Unemployment Benefits Record&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"always_show": {
+		"displayValue": false,
+		"value": false
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": null,
+		"displayValue": ""
+	},
+	"rounded_images": {
+		"displayValue": true,
+		"value": true
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=795068f147330200ba13a5554ee4903b"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2024889080</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>ae384a8c97093910680df5c11153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a333892ea0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table>x_131797_unemploym_unemployment_benefits</table>
+<target_name>Unemployment Benefits Record</target_name>
+<type>Instance of Simple List</type>
+<update_domain>global</update_domain>
+<update_guid>66365c97603475106f254fd05d86cd67</update_guid>
+<update_guid_history>66365c97603475106f254fd05d86cd67:2024889080,7fa5d0976c347510b19943ad2e35c541:-1672764514,86751c57b834751057e2cbc2725ee510:1202997948,8d75d0970d347510a9d7d0bbde3ee835:-1347634182,84759097e1347510eb8e895277bd1ff5:-909885509,9a45dc572f347510e2b4dc6a0c1f9794:-472136836,66359c57a73475100b4dfbf0d49ed9a4:-34388163,ae359c57fa34751072d01d65973e49a2:-472136836</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_b072f1900b0103002600425663673a10</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="DELETE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">4a62b1900b0103002600425663673ac9</sp_column><sp_widget display_value="SC Scroll to top">9cfd91940b4103002600425663673a31</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-09-02 22:15:09</sys_created_on><sys_id>b072f1900b0103002600425663673a10</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Service Portal - Service Catalog v2" source="com.glideapp.servicecatalog.portal">7f9e8f35e8e1211076da10591ad28750</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_b072f1900b0103002600425663673a10</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-09-02 22:15:09</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=b072f1900b0103002600425663673a10"/></record_update>]]></payload>
+<payload_hash>22162256</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>e2384a8c97093910680df5c11153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a33348c4e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>56359c57923475100d3baf75b754853c</update_guid>
+<update_guid_history>56359c57923475100d3baf75b754853c:22162256,56359c572b3475103c6f35b978a69d37:318747996</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_7119e193d7333100a9ad1e173e24d4cb</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;0ec8e193d7333100a9ad1e173e24d44a&lt;/sp_column&gt;&lt;sp_widget display_value="Approvals"&gt;f37aa302cb70020000f8d856634c9cfc&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-05-08 17:13:24&lt;/sys_created_on&gt;&lt;sys_id&gt;7119e193d7333100a9ad1e173e24d4cb&lt;/sys_id&gt;&lt;sys_mod_count&gt;25&lt;/sys_mod_count&gt;&lt;sys_name&gt;My Approvals&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;026ec7f1e8e1211076da10591ad28737&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_7119e193d7333100a9ad1e173e24d4cb&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 18:57:33&lt;/sys_updated_on&gt;&lt;title&gt;My Approvals&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"portal": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7119e193d7333100a9ad1e173e24d4cb"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>238353163</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>e6384a8c97093910680df5c11153af62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a333579730000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>My Approvals</target_name>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>c175d097a13475107dd145924cdeff20</update_guid>
+<update_guid_history>c175d097a13475107dd145924cdeff20:238353163,80759097413475103aaa560354c6c0f1:-365574889,e2359c57713475107dd24e5a2023099b:-770405480,ae359c57f4347510979a5c54fce6a599:-365574889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_63f1a53377451110cd1b756f1b5a9991</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Captures the last execution timestamp of the scheduled job 'Surface New Unconnected Content of Categories'</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>taxonomy.category.new_content_job_last_run</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-08 07:43:25</sys_created_on><sys_id>63f1a53377451110cd1b756f1b5a9991</sys_id><sys_mod_count>19</sys_mod_count><sys_name>taxonomy.category.new_content_job_last_run</sys_name><sys_package display_value="Content Taxonomy" source="com.snc.taxonomy">48d29379e825211076da10591ad287da</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_63f1a53377451110cd1b756f1b5a9991</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-27 07:00:03</sys_updated_on><type>date_format</type><value>2023-08-27</value><write_roles>maint</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=63f1a53377451110cd1b756f1b5a9991"/></record_update>]]></payload>
+<payload_hash>-359149555</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>e6384a8c97093910680df5c11153af65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a35cae9470000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>taxonomy.category.new_content_job_last_run</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>0cda3293ebbc7510ba9ef60d77befe9c</update_guid>
+<update_guid_history>0cda3293ebbc7510ba9ef60d77befe9c:-359149555,fba7f28dd6b4b110929ec59f0909d7b5:830537780,2f84363a93683510da1fd5d80ab98f48:1294319824,7e61fae0fc6c311018cb5abe546ddc33:1758101868,f64e6ed272d4f510276d2e4cc07ba332:1684057204,3f2beac00198f1107e7b434417b8953a:-2147128048,e708a6f55ac831108faad3d2b3cc75ba:-1683346004,2b6a1bb3153321107ea1028261b2e90c:-50047246,1968da2270d7e110f7f9184af4777c48:380031376,b7ace0f174132110acc8a54b8f73cd31:-1676708184,23ace0f1351321108f7e3eba5c031e2f:-437767834</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_column_10915e3397b8f510680df5c11153af39</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">14915e3397b8f510680df5c11153af36</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 17:16:51</sys_created_on><sys_id>10915e3397b8f510680df5c11153af39</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_column_10915e3397b8f510680df5c11153af39</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 17:16:51</sys_updated_on></sp_column></record_update>]]></payload>
+<payload_hash>-2080223273</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>ea384a8c97093910680df5c11153af61</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3d25efe00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Column</type>
+<update_domain>global</update_domain>
+<update_guid>68915e3310b8f5104122327cadfc713a</update_guid>
+<update_guid_history>68915e3310b8f5104122327cadfc713a:-2080223273</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_vlist_5f9116ff9778f510680df5c11153af73</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;number&lt;/display_field&gt;&lt;field_list&gt;reporting_obligations&lt;/field_list&gt;&lt;filter/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;1&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;10915e3397b8f510680df5c11153af39&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Simple List"&gt;5b255672cb03020000f8d856634c9c28&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-08-28 17:17:02&lt;/sys_created_on&gt;&lt;sys_id&gt;5f9116ff9778f510680df5c11153af73&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_5f9116ff9778f510680df5c11153af73&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-28 17:23:27&lt;/sys_updated_on&gt;&lt;table&gt;x_131797_unemploym_unemployment_benefits&lt;/table&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+  
+  
+ "secondary_fields": {
+"value": "number,sys_updated_on",
+"displayValue": "number,sys_updated_on"
+
+
+},
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=5f9116ff9778f510680df5c11153af73"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-956882403</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>ea384a8c97093910680df5c11153af64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a3d2bfdea0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table>x_131797_unemploym_unemployment_benefits</table>
+<target_name/>
+<type>Instance of Simple List</type>
+<update_domain>global</update_domain>
+<update_guid>1913d237b0b8f510dbe9d24b55bb838c</update_guid>
+<update_guid_history>1913d237b0b8f510dbe9d24b55bb838c:-956882403,b462123775b8f51068466a7929bad330:1211875105,46c11af302b8f51026e73b99242c9a2f:1728466622,9f9156f343b8f5103a5d66cbb09bd083:1714292076</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_link_61c794b2cb20120000f8d856634c9ced</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;book&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Browse and search for articles, rate or submit feedback&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;afca8872cb20120000f8d856634c9c2a&lt;/sp_column&gt;&lt;sp_page display_value="kb_view2"&gt;26c2e030d7201200a9addd173e24d437&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-12-29 00:58:57&lt;/sys_created_on&gt;&lt;sys_id&gt;61c794b2cb20120000f8d856634c9ced&lt;/sys_id&gt;&lt;sys_mod_count&gt;19&lt;/sys_mod_count&gt;&lt;sys_name&gt;Knowledge Base&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;026ec7f1e8e1211076da10591ad28737&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_61c794b2cb20120000f8d856634c9ced&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-08-26 18:56:36&lt;/sys_updated_on&gt;&lt;title&gt;Knowledge Base&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=61c794b2cb20120000f8d856634c9ced"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-763639853</payload_hash>
+<remote_update_set display_value="Unemployment Benefits-- Global app">2a384a8c97093910680df5c11153af61</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-08-29 11:14:30</sys_created_on>
+<sys_id>ee384a8c97093910680df5c11153af63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18a33348d710000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-08-29 11:14:30</sys_updated_on>
+<table/>
+<target_name>Knowledge Base</target_name>
+<type>Instance with Link</type>
+<update_domain>global</update_domain>
+<update_guid>9a359c5750347510fa0053d6915b614d</update_guid>
+<update_guid_history>9a359c5750347510fa0053d6915b614d:-763639853,16359c57ea347510e8af70fe3979e44c:-405765614</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
